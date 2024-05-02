@@ -62,7 +62,8 @@ if(!empty($height) && !empty($weight)){
     echo "請輸入你的身高與體重";
 }
 
-
 ?>
+
 </body>
+
 </html>

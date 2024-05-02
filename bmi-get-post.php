@@ -42,6 +42,9 @@
             <input type="reset" value="清除重算">
         </div>
     </form>
+<hr>
+    <h2>使用a連結標籤來代替get</h2>
+<a href="bmi_result.php?weight=80&height=168">計算BMI</a>
 
 </body>
 </html>
